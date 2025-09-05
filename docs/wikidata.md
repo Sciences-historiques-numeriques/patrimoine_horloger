@@ -1,6 +1,5 @@
 
-
-Information disponible dans Wikidata concernant la population étudiée.
+# Wikidata
 
 
 ## Documentation concernant les requêtes SPARQL effectuées dans Wikidata
