@@ -1,4 +1,5 @@
 
+# Pyramide données, information, savoir
 
 
 ![alt text](pyramide_anglais_v2.jpg)
