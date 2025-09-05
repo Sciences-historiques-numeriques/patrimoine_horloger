@@ -5,8 +5,15 @@
 * [LLaMA (Large Language Model Meta AI)](https://fr.wikipedia.org/wiki/LLaMA) (Wikipedia)
 * Interroger Llama 3: https://ai-tools.infomaniak.com/ 
 
+  * qu'est-ce que le patrimoine horloger?
+  * Quels sont les trois meilleurs ouvrages concernant le patrimoine horloger?
+  * première marque suisse de montres
 
+
+* [Swisscovery](https://swisscovery.slsp.ch) : moteur d'agrégation des notices bibliographiques de bibliothèques suisses
 * [Dictionnaire historique de la Suisse](https://hls-dhs-dss.ch/fr/articles/013976/2020-08-11/#HOriginesdeladiffusiondel27horlogerieenSuisse): Horlogerie.
+
+
 
 
 
@@ -18,6 +25,8 @@ Vectorisation de mots pour les techniques d'apprentissage automatique
 
 Un exemple de vecteur:
 
+![alt text](image-3.png)
+
 [Vecteur](https://fr.m.wikipedia.org/wiki/Vecteur): élément d'un espace vectoriel, sur lequel on peut effectuer des combinaisons linéaires
 
 L’article “Plongement lexical” de Wikipedia contient un exposé de l’historique et du fonctionnement de cette méthode, notamment concernant la présentation des réseaux neuronaux utilisés pour produire les vecteurs multidimensionnels.
@@ -26,11 +35,15 @@ L’article “Plongement lexical” de Wikipedia contient un exposé de l’his
 
 L’exemple classique de la méthode Word2vec:
 
+![alt text](image-1.png)
+
 Illustration du plongement lexical dans un espace vectoriel réduit à deux dimensions ([Wikipedia](https://en.wikipedia.org/wiki/Word2vec))
 
 ### Méthode appliqué à l’histoire
 
-Wevers Melvin et Koolen Marijn, « Digital begriffsgeschichte: Tracing semantic change using word embeddings », *Historical Methods: A Journal of Quantitative and Interdisciplinary History* 53 (4), 01.10.2020, pp. 226‑243. En ligne: <[https://doi.org/10.1080/01615440.2020.1760157](https://doi.org/10.1080/01615440.2020.1760157)\>.
+Wevers Melvin et Koolen Marijn, « [Digital begriffsgeschichte: Tracing semantic change using word embeddings](https://doi.org/10.1080/01615440.2020.1760157) », *Historical Methods: A Journal of Quantitative and Interdisciplinary History* 53 (4), 01.10.2020, pp. 226‑243.
+
+![alt text](image-4.png)
 
 Figure 2. La proximité est représentée par la distance cosinus, qui indique l'angle entre deux vecteurs le long de deux ou plusieurs dimensions […]. Un angle plus petit indique des mots sémantiquement similaires ; dans ce cas, "pomme" et "banane".
 
